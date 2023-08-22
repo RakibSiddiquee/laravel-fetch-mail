@@ -4,7 +4,7 @@ Follow the following instructions:
 
 - Clone the application
 - Run composer install
-- We use laravel-imap package (https://github.com/Webklex/laravel-imap)
+- We used laravel-imap package (https://github.com/Webklex/laravel-imap)
 - Create an email address against your domain in hosting
 - Add the following settings in .env from mail client manual settings (Incoming Server)
 ```
